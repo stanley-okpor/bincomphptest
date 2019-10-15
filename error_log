@@ -1,0 +1,11 @@
+[15-Oct-2019 17:38:56 Africa/Lagos] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/xinfocom/public_html/bincom/database.php on line 7
+[15-Oct-2019 17:38:56 Africa/Lagos] PHP Fatal error:  Call to a member function errno() on boolean in /home/xinfocom/public_html/bincom/database.php on line 14
+[15-Oct-2019 17:39:03 Africa/Lagos] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/xinfocom/public_html/bincom/database.php on line 7
+[15-Oct-2019 17:39:03 Africa/Lagos] PHP Fatal error:  Call to a member function errno() on boolean in /home/xinfocom/public_html/bincom/database.php on line 14
+[15-Oct-2019 17:39:06 Africa/Lagos] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/xinfocom/public_html/bincom/database.php on line 7
+[15-Oct-2019 17:39:06 Africa/Lagos] PHP Fatal error:  Call to a member function errno() on boolean in /home/xinfocom/public_html/bincom/database.php on line 14
+[15-Oct-2019 17:41:54 Africa/Lagos] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/xinfocom/public_html/bincom/lga_result.php on line 77
+[15-Oct-2019 17:42:08 Africa/Lagos] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/xinfocom/public_html/bincom/lga_result.php on line 77
+[15-Oct-2019 18:43:31 Africa/Lagos] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/xinfocom/public_html/bincom/lga_result.php on line 77
+[15-Oct-2019 19:37:19 Africa/Lagos] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/xinfocom/public_html/bincom/lga_result.php on line 75
+[15-Oct-2019 19:37:29 Africa/Lagos] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/xinfocom/public_html/bincom/lga_result.php on line 75
